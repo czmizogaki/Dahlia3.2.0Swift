@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_ID</key>
+	<string>4879</string>
+	<key>DAHLIA_SERVER_URL-localhost</key>
+	<string>01661372398fcad0056a5b2f45103ac99a371ff4976e8060ce3cd7fbd8de157c1d</string>
+	<key>DAHLIA_SERVER_URL_dev</key>
+	<string>01faf26ab8e4b5c724322e306f7d0bd8d723b2163f2b2bedae0207da7617779b3c</string>
+	<key>DAHLIA_SERVER_URL_stg</key>
+	<string>https://zdahlia-ad.forceoperationx.com/v2/</string>
+	<key>DAHLIA_SERVER_URL</key>
+	<string>https://zdahlia-ad.forceoperationx.com/v2/</string>
+</dict>
+</plist>
