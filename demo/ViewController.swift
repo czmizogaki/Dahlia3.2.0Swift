@@ -18,7 +18,8 @@ class ViewController: UIViewController,UIWebViewDelegate {
         super.viewDidLoad()
 
         let adOperation = DLAdOperation()
-        adOperation.reqestAdInfo(plementID! as String,
+
+        adOperation.requestAdInfo(plementID!as String,
             success: {(receiveObject: [NSObject : AnyObject]) in
 
                 print(receiveObject)

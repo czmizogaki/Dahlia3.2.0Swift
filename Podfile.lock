@@ -1,0 +1,16 @@
+PODS:
+  - foxSdk (3.2.0)
+
+DEPENDENCIES:
+  - foxSdk (from `https://github.com/cyber-z/public-fox-ios-sdk/raw/master/cocoapods/foxSdk.podspec`)
+
+EXTERNAL SOURCES:
+  foxSdk:
+    :podspec: https://github.com/cyber-z/public-fox-ios-sdk/raw/master/cocoapods/foxSdk.podspec
+
+SPEC CHECKSUMS:
+  foxSdk: 3f78b39682d36599d3d127d782f99ff85f8a417e
+
+PODFILE CHECKSUM: 615ae306b301281f66487ad2aa55ca5de3f41965
+
+COCOAPODS: 1.0.0
